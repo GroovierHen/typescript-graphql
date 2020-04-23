@@ -1,0 +1,8 @@
+{
+  "type": "mongodb",
+  "url": "mongodb://admin:a123456@ds133127.mlab.com:33127/test-project",
+  "synchronize": true,
+  "logging": true,
+  "useUnifiedTopology": true,
+  "entities": ["src/entity/*.*"]
+}
